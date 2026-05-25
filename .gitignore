@@ -1,0 +1,6 @@
+ai_service/.env
+backend/.env
+ai_service/.venv/
+frontend/.npm-cache/
+**/__pycache__/
+*.py[cod]
